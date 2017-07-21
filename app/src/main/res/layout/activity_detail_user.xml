@@ -24,7 +24,7 @@
             android:layout_height="wrap_content"
             android:text="@string/username"
             android:textAlignment="center"
-            android:textColor="@color/magnitude9"
+            android:textColor="#424242"
             android:textSize="25dp"
             android:textStyle="bold"/>
 
@@ -40,7 +40,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textAlignment="center"
-            android:textColor="@color/magnitude3"
+            android:textColor="#424242"
             android:textSize="25dp"
             android:textStyle="normal"/>
 
