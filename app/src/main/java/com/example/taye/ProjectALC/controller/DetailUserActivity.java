@@ -15,7 +15,7 @@ import com.bumptech.glide.Glide;
 import com.example.taye.ProjectALC.R;
 
 /**
- * Created by TAYE on 21/04/2017.
+ * Created by TAYE on 21/07/2017.
  */
 
 public class DetailUserActivity extends AppCompatActivity {

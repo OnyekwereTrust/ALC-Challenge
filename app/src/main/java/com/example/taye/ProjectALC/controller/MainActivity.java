@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
 
         display();
         swipeRefreshLayout = (SwipeRefreshLayout) findViewById(R.id.swipe);
-        swipeRefreshLayout.setColorSchemeResources(R.color.magnitude9);
+        swipeRefreshLayout.setColorSchemeResources(R.color.magnitude1);
         swipeRefreshLayout.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
             @Override
             public void onRefresh() {
@@ -87,7 +87,7 @@ public class MainActivity extends AppCompatActivity {
     private void display() {
         progressDialog = new ProgressDialog(this);
         progressDialog.setCancelable(false);
-        progressDialog.setMessage("Fetching Java Developers in Lagos.....");
+        progressDialog.setMessage("Fetching List of Java Developers in Lagos.....");
         progressDialog.show();
 
         recyclerView = (RecyclerView) findViewById(R.id.recyclerView);
