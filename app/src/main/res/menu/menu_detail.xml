@@ -5,6 +5,7 @@
     tools:context=".controller.DetailActivity">
 
     <item
+        
         android:id="@+id/share"
         android:icon="@drawable/share1"
         android:title="Share"

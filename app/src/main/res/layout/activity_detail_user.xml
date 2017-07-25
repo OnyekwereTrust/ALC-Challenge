@@ -15,7 +15,7 @@
     <android.support.design.widget.TextInputLayout
          android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="10dp">
+        android:layout_marginTop="5dp">
 
         <TextView
             android:id="@+id/usernameHeader"
@@ -24,7 +24,7 @@
             android:text="@string/username"
             android:textAlignment="center"
             android:textColor="#424242"
-            android:textSize="25sp"
+            android:textSize="20sp"
             android:textStyle="bold"/>
 
     </android.support.design.widget.TextInputLayout>
@@ -32,15 +32,15 @@
     <android.support.design.widget.TextInputLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="10dp">
+        android:layout_marginTop="5dp">
 
         <TextView
             android:id="@+id/detailedUsername"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textAlignment="center"
-            android:textColor="@color/magnitude3"
-            android:textSize="25sp"
+            android:textColor="@color/magnitude9"
+            android:textSize="20sp"
             android:textStyle="normal"/>
 
     </android.support.design.widget.TextInputLayout>
@@ -48,7 +48,7 @@
     <android.support.design.widget.TextInputLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="10dp">
+        android:layout_marginTop="5dp">
 
         <TextView
             android:id="@+id/githubLinkHeader"
@@ -57,7 +57,7 @@
             android:text="@string/githublink"
             android:textAlignment="center"
             android:textColor="#424242"
-            android:textSize="25sp"
+            android:textSize="20sp"
             android:textStyle="bold"/>
 
     </android.support.design.widget.TextInputLayout>
@@ -65,15 +65,15 @@
     <android.support.design.widget.TextInputLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="10dp">
+        android:layout_marginTop="5dp">
 
         <TextView
             android:id="@+id/detailedGithubLink"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textAlignment="center"
-            android:textColor="@color/magnitude11"
-            android:textSize="25sp"
+            android:textColor="@color/magnitude6"
+            android:textSize="20sp"
             android:textStyle="normal"/>
 
     </android.support.design.widget.TextInputLayout>
