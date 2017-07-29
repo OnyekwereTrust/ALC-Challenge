@@ -48,7 +48,7 @@
         android:ellipsize="end"
         android:text="Username:"
         android:textAppearance="?android:textAppearanceLarge"
-        android:textStyle="bold"
+        android:textStyle="italic"
         android:textSize="20sp"
         android:layout_marginTop="20dp"
         android:fontFamily="arial-black"
